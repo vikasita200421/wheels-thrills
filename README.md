@@ -1,4 +1,12 @@
 ## 'WHEELS & THRILLS' application created by React and Google Firebase
+
+## 👨‍💻 Technologies Used
+- **HTML & CSS** – For structuring and styling frontend pages
+- **React JS** – Component-based frontend framework
+- **MySQL** – For storing user and vehicle data using SQL queries
+- **Spring Boot (Java)** – Backend logic and REST API integration
+
+
 <ul>
     <li>
         ✔️-> React Bootstrap and SASS for responsive development
